@@ -1,0 +1,11 @@
+*.sw?
+pyvenv.cfg
+.pyc
+.pyo
+bin/
+build/
+dist/
+lib/
+lib64
+share/
+
